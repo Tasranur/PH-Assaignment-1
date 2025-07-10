@@ -40,7 +40,7 @@ nav ul li {
   align-items: center;
 }
 header {
-  background-image: url('../Assets/Hero-bg.png');
+  background-image: url('../assets/Hero-bg.png');
   height: 700px;
 }
 /* shared-style */
