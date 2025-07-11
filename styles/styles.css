@@ -174,3 +174,59 @@ header {
   font-size: 12px;
   color: #888;
 }
+.input-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 120px;
+  margin: 90px 150px 20px;
+}
+.input-stittle {
+  font-weight: bold;
+  font-size: 90px;
+}
+.input-card label {
+  display: block;
+}
+.form {
+  border: none;
+  background-color: hsla(193, 100%, 83%, 0.383);
+  border-radius: 7px;
+  text-align: center;
+  width: 300px;
+  height: 45px;
+  box-shadow: 1px 1px 3px #888;
+}
+.form-submit-button {
+  padding-left: 20px;
+  margin-left: 75px;
+  margin-top: 10px;
+}
+.footer-txt {
+  text-align: center;
+  font-weight: 900px;
+  font-size: 100px;
+  margin-bottom: 40px;
+}
+.footer-txt-des {
+  text-align: center;
+  color: #8987a1;
+  margin-top: 40px;
+  margin-bottom: 0px;
+}
+.footer-button li {
+  list-style: none;
+}
+.footer-button li a {
+  text-decoration: none;
+  color: #8987a1;
+}
+
+.footer-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 45px;
+  margin-bottom: 60px;
+  margin-top: 40px;
+}
